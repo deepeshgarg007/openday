@@ -1,1 +1,1 @@
-# Getting Started
+---?image=assets/img/stunning.png
