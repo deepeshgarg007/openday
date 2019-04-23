@@ -1,6 +1,6 @@
 ---?image=assets/img/stunning.png
 
-@snap[north]
+@snap[north span-55]
 ### Open Day April 2019
-#### @color[cyan](**By Deepesh Garg**)
+#### @color[#D4AC0D](**By Deepesh Garg**)
 @snapend
