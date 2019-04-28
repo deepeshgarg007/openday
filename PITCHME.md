@@ -1,30 +1,34 @@
 ---?color=linear-gradient(to right, #c02425, #f0cb35)
 @title[Introduction]
 
-<!--
-Tip! Get started with this template as follows:
-Step 1. Delete the contents of this PITCHME.md file.
-Step 2. Start adding your own custom slide content.
-Step 3. Copy slide markdown snippets from template/md directory as needed.
--->
-
 @snap[west text-25 text-bold text-white]
-GitPitch<br>*The Template*
+Open Day<br>*April 2019*
 @snapend
 
 @snap[south-west byline text-white text-06]
-The Fastest Way From Idea To Presentation.
+By Deepesh Garg
 @snapend
 
 ---
-@title[Slide Markdown]
+## @color[black](List Content<br>Slide Templates)
 
-### Each slide in this presentation is provided as a *template*.
+@fa[arrow-down text-black]
 
++++?image=template/img/spotlight.png&position=top right&size=20% auto
+
+@snap[north-west]
+Partner Portal post release activities
+@snapend
+
+@snap[south-west list-content-concise span-100]
+@ol[list-bullets-black](false)
+- Image upload button fix in partner profile webfrom
+- Minor changes and fixes in partne listing page and plans page
+- Partner credit balance report
+- Changes in signup form
+- Remove old reseller pages
+@olend
 <br><br>
-
-@snap[south span-100 text-purple text-05]
-Reuse the *markdown snippet* for any slide in this template within your own @css[text-gold text-bold](PITCHME.md) files.
 @snapend
 
 ---
