@@ -18,7 +18,7 @@ theme : sky
 # Theme-Override Setting
 # Doc: https://gitpitch.com/docs/settings/custom-theme
 #
-#theme-override : template/css/PITCHME.css
+theme-override : templates/css/PITCHME.css
 
 #Logo Setting
 # https://gitpitch.com/docs/settings/logo
