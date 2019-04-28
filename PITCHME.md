@@ -47,10 +47,86 @@ Partner Portal post release Activities
 
 ---
 
-@snap[north-west]
-E-way bill json creation creation and download
-@snapend
 
+#### E-way bill json creation creation and download
+
+![EWB](assets/img/ewb.gif)
+
+---
+
+
+### Sample JSON
+
+```json
+	{
+    "billLists": [
+        {
+            "OthValue": 0,
+            "TotNonAdvolVal": 0,
+            "actualFromStateCode": 27,
+            "actualToStateCode": 27,
+            "cessValue": 0,
+            "cgstValue": 0,
+            "docDate": "27/04/2019",
+            "docNo": "SINV-00186",
+            "docType": "INV",
+            "fromAddr1": "23/D, Paper Box Industrial Estate",
+            "fromAddr2": "MC Road, Andheri East",
+            "fromGstin": "27AAECE4835E1ZR",
+            "fromPincode": 401105,
+            "fromPlace": "Mumbai",
+            "fromStateCode": 27,
+            "fromTrdName": "Gadget Technologies Pvt. Ltd.",
+            "igstValue": 0,
+            "itemList": [
+                {
+                    "cessNonAdvol": 0,
+                    "cessRate": 0,
+                    "cgstRate": 0,
+                    "hsnCode": 8517,
+                    "igstRate": 0,
+                    "qtyUnit": "",
+                    "sgstRate": 18.0,
+                    "taxableAmount": 48000.0
+                },
+                {
+                    "cessNonAdvol": 0,
+                    "cessRate": 0,
+                    "cgstRate": 0,
+                    "hsnCode": 998891,
+                    "igstRate": 0,
+                    "qtyUnit": "",
+                    "sgstRate": 18.0,
+                    "taxableAmount": 0.0
+                }
+            ],
+            "sgstValue": 8640.0,
+            "subSupplyType": 1,
+            "supplyType": "O",
+            "toAddr1": "56",
+            "toAddr2": "Cliff Hills",
+            "toGstin": "URP",
+            "toPincode": 400050,
+            "toPlace": "Mumbai",
+            "toStateCode": 27,
+            "toTrdName": "Latte Solutions",
+            "totInvValue": 56640.0,
+            "totalValue": 48000.0,
+            "transDistance": 2000.0,
+            "transDocDate": "27/04/2019",
+            "transDocNo": "",
+            "transMode": 1,
+            "transType": 1,
+            "transporterId": "",
+            "transporterName": "",
+            "userGstin": "27AAECE4835E1ZR",
+            "vehicleNo": "KA12KA1234",
+            "vehicleType": "R"
+        }
+    ],
+    "version": "1.0.1118"
+}
+```
 
 
 ---

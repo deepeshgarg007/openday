@@ -69,13 +69,13 @@
   margin: 0px;
 }
 
-/* .reveal pre code {
+.reveal pre code {
   font-size: 1.2em;
   line-height: 1.2;
   border-radius: 10px;
   max-height: 60vh !important;
-  overflow: hidden !important;
-} */
+  overflow: scroll !important;
+}
 
 @media (device-width: 100vw) and (device-height: 100vh) {
   .reveal pre code {
