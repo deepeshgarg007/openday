@@ -35,8 +35,11 @@ Merge Lead and Customer field into a Dynamic Field for Quotation and Opportunity
 @snapend
 
 ---
+@snap[north-west]
+New Inactive Items Report
+@snapend
 
-+++?image=assets/img/inactive.png&position=left&size=80% 80%
+image=assets/img/inactive.png&position=left&size=80% 80%
 
 ---
 
