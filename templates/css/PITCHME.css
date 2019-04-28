@@ -6,7 +6,7 @@
 
 /* Split-Screen Template Styles */
 
-.split-screen-img {
+/* .split-screen-img {
   border-radius: 8% !important;
 }
 
@@ -17,7 +17,7 @@
 .split-screen-list li::before {
   color: #FF5600 !important;
   background-color: white !important;
-}
+} */
 
 /* List-Content Template Styles */
 
@@ -44,7 +44,7 @@
 
 /** Boxed-Text Template Styles ***/
 
-.box-wide-padding #boxed-text {
+/* .box-wide-padding #boxed-text {
   padding-top: 2em;
   padding-bottom: 2em;
 }
@@ -52,7 +52,7 @@
 .box-narrow-padding #boxed-text {
   padding-top: 0.6em;
   padding-bottom: 0.8em;
-}
+} */
 
 /** Image Template Styles ***/
 
@@ -67,16 +67,15 @@
 .reveal pre {
   width: 98%;
   margin: 0px;
-  box-shadow: none;
 }
 
-.reveal pre code {
+/* .reveal pre code {
   font-size: 1.2em;
   line-height: 1.2;
   border-radius: 10px;
   max-height: 60vh !important;
   overflow: hidden !important;
-}
+} */
 
 @media (device-width: 100vw) and (device-height: 100vh) {
   .reveal pre code {
