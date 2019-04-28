@@ -34,7 +34,7 @@ Partner Portal post release Activities
 
 ##### New Inactive Items Report
 
-![Report](assets/img/inactive.png&size=contain)
+![Report](assets/img/inactive.png)
 
 ---
 
@@ -53,7 +53,7 @@ E-way bill json creation creation and download
 
 ##### Addition of custom fields to Script and Query reports
 
-![GIF](assets/img/column.gif&size=conatin)
+![GIF](assets/img/column.gif)
 
 ---
 
