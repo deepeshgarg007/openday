@@ -56,18 +56,20 @@ E-way bill json creation creation and download
 ---
 
 
+##### Addition of custom fields to Script and Query reports
+
 ![Column](assets/img/column.gif)
+
 
 
 ---
 
-@snap[north-west]
-[Wallbox] Automatic PO - SO Creation in Inter-company Transactions
-@snapend
 
-@snap[west]
-image=assets/img/automatic.gif
-@snapend
+##### [Wallbox] Automatic PO - SO Creation in Inter-company Transactions
+
+![Column](ssets/img/automatic.gif)
+
+
 
 ---
 
