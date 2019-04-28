@@ -55,7 +55,6 @@ E-way bill json creation creation and download
 
 ---
 
-##### Addition of custom fields to Script and Query reports
 
 ![Column](assets/img/column.gif)
 
