@@ -30,13 +30,13 @@ Partner Portal post release Activities
 Merge Lead and Customer field into a Dynamic Field for Quotation and Opportunity
 @snapend
 
-@snap[west spam-100]
+@snap[west span-100]
 +++?image=assets/img/rigpl.png
 @snapend
 
 ---
 
-+++?image=assets/img/inactive.png&size=contain&color=linear-gradient(to right, #009fff, #ec2f4b)
++++?image=assets/img/inactive.png&position=left&size=80% 80%
 
 ---
 
