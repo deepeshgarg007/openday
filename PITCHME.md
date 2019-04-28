@@ -1,4 +1,4 @@
----?color=linear-gradient(to right, #c02425, #f0cb35)
+---?color=linear-gradient(to right, #66ccff, #e6f7ff)
 @title[Introduction]
 
 @snap[west text-25 text-bold text-white]
@@ -30,7 +30,9 @@ Partner Portal post release Activities
 Merge Lead and Customer field into a Dynamic Field for Quotation and Opportunity
 @snapend
 
+@snap[center]
 +++?image=assets/img/rigpl.png
+@snapend
 
 ---
 
@@ -38,7 +40,9 @@ Merge Lead and Customer field into a Dynamic Field for Quotation and Opportunity
 New Report for Items not sold in Territory
 @snapend
 
+@snap[west]
 +++?image=assets/img/inactive.png
+@snapend
 
 ---
 
@@ -61,7 +65,9 @@ E-way bill json creation creation and download
 Addition of custom fields to Script and Query reports
 @snapend
 
-
+@snap[west]
++++?image=assets/img/column.gif
+@snapend
 
 ---
 
@@ -69,7 +75,9 @@ Addition of custom fields to Script and Query reports
 [Wallbox] Automatic PO - SO Creation in Inter-company Transactions
 @snapend
 
+@snap[west]
 +++?image=assets/img/automatic.gif
+@snapend
 
 ---
 
