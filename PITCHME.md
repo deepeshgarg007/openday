@@ -41,7 +41,7 @@ New Report for Items not sold in Territory
 @snapend
 
 @snap[west]
-+++?image=assets/img/inactive.png
++++?image=template/img/inactive.png&size=contain&color=linear-gradient(to right, #009fff, #ec2f4b)
 @snapend
 
 ---
@@ -123,6 +123,8 @@ Support Issues + Bug Fixes
 ```
 
 ---
+@snap[north-west]
+@snapend
 
 @snap[west list-content-concise span-100]
 @ol[list-bullets-black](false)
