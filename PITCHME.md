@@ -60,7 +60,6 @@ Addition of custom fields to Script and Query reports
 [Wallbox] Automatics PO - SO Creation in Inter-company Transactions
 @snapend
 
----
 
 
 
