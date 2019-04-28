@@ -25,7 +25,7 @@ theme :black
 # Logo Setting
 # https://gitpitch.com/docs/settings/logo
 #
-logo : template/img/frappe-logo.png
+logo : templates/img/frappe-logo.png
 logo-position : top-left
 
 #
