@@ -32,9 +32,9 @@ Partner Portal post release Activities
 
 ---
 
-#### New Inactive Items Report
+##### New Inactive Items Report
 
-![Report](assets/img/inactive.png)
+![Report](assets/img/inactive.png&size=80% 80%)
 
 ---
 
