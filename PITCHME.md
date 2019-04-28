@@ -57,7 +57,7 @@ Addition of custom fields to Script and Query reports
 ---
 
 @snap[north-west]
-[Wallbox] Automatics PO - SO Creation in Inter-company Transactions
+[Wallbox] Automatic PO - SO Creation in Inter-company Transactions
 @snapend
 
 
