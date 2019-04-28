@@ -26,20 +26,15 @@ Partner Portal post release Activities
 @snapend
 
 ---
-@snap[north-west]
-Merge Lead and Customer field into a Dynamic Field for Quotation and Opportunity
-@snapend
+### Merge Lead and Customer field into a Dynamic Field for Quotation and Opportunity
 
-@snap[west span-100]
-image=assets/img/rigpl.png
-@snapend
+[RIGPL](assets/img/rigpl.png&size=50% 50%)
 
 ---
-@snap[north-west]
-New Inactive Items Report
-@snapend
 
-image=assets/img/inactive.png&position=left&size=80% 80%
+### New Inactive Items Report
+
+[Report](assets/img/inactive.png&size=80% 80%)
 
 ---
 
