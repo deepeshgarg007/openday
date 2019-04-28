@@ -34,7 +34,7 @@ Partner Portal post release Activities
 
 ##### New Inactive Items Report
 
-![Report](assets/img/inactive.png&size=80% 80%)
+![Report](assets/img/inactive.png&size=contain)
 
 ---
 
@@ -49,17 +49,11 @@ Partner Portal post release Activities
 E-way bill json creation creation and download
 @snapend
 
-
-
 ---
 
-@snap[north-west]
-Addition of custom fields to Script and Query reports
-@snapend
+##### Addition of custom fields to Script and Query reports
 
-@snap[west]
-image=assets/img/column.gif
-@snapend
+![GIF](assets/img/column.gif&size=conatin)
 
 ---
 
