@@ -14,7 +14,7 @@ By Deepesh Garg
 Partner Portal post release Activities
 @snapend
 
-@snap[south-west list-content-concise span-100]
+@snap[west list-content-concise span-100]
 @ol[list-bullets-black]
 - Image upload button fix in partner profile webfrom
 - Minor changes and fixes in partne listing page and plans page
