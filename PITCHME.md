@@ -30,7 +30,7 @@ Partner Portal post release Activities
 Merge Lead and Customer field into a Dynamic Field for Quotation and Opportunity
 @snapend
 
-@snap[center]
+@snap[west spam-100]
 +++?image=assets/img/rigpl.png
 @snapend
 
@@ -85,7 +85,7 @@ Addition of custom fields to Script and Query reports
 Support Issues + Bug Fixes
 @snapend
 
-@snap[west]
+@snap[west span-100]
 Patch for sapcon to repost stock enteries
 
 ```python
