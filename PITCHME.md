@@ -85,10 +85,8 @@ Addition of custom fields to Script and Query reports
 Support Issues + Bug Fixes
 @snapend
 
-@snap[west span-100]
-Patch for sapcon to repost stock enteries
-
 ```python
+	# Patch for sapcon to repost stock enteries
 	import frappe
 	from erpnext.stock.stock_balance import repost_stock
 	from erpnext.stock.utils import get_bin
@@ -123,7 +121,6 @@ Patch for sapcon to repost stock enteries
 			bin_obj.update_reserved_qty_for_production()
 			bin_obj.update_reserved_qty_for_sub_contracting()
 ```
-@snapend
 
 ---
 
