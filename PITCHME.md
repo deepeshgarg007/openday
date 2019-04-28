@@ -31,7 +31,7 @@ Merge Lead and Customer field into a Dynamic Field for Quotation and Opportunity
 @snapend
 
 @snap[west span-100]
-+++?image=assets/img/rigpl.png
+image=assets/img/rigpl.png
 @snapend
 
 ---
@@ -63,7 +63,7 @@ Addition of custom fields to Script and Query reports
 @snapend
 
 @snap[west]
-+++?image=assets/img/column.gif
+image=assets/img/column.gif
 @snapend
 
 ---
@@ -73,7 +73,7 @@ Addition of custom fields to Script and Query reports
 @snapend
 
 @snap[west]
-+++?image=assets/img/automatic.gif
+image=assets/img/automatic.gif
 @snapend
 
 ---
