@@ -67,7 +67,7 @@ E-way bill json creation creation and download
 
 ##### [Wallbox] Automatic PO - SO Creation in Inter-company Transactions
 
-![Column](ssets/img/automatic.gif)
+![Column](assets/img/automatic.gif)
 
 
 
