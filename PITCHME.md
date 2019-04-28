@@ -36,7 +36,9 @@ Partner Portal post release Activities
 
 ![Report](assets/img/inactive.png)
 
+
 ---
+
 
 @snap[north-west]
 [ICP India] Notification of Receipt against Material Request
@@ -54,10 +56,6 @@ E-way bill json creation creation and download
 ---
 
 ##### Addition of custom fields to Script and Query reports
-
-@snap[west]
-image=assets/img/column.gif
-@snapend
 
 ---
 
