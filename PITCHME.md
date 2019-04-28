@@ -36,10 +36,7 @@ Merge Lead and Customer field into a Dynamic Field for Quotation and Opportunity
 
 ---
 
-@snap[north-west]
-New Report for Items not sold in Territory
 +++?image=assets/img/inactive.png&size=contain&color=linear-gradient(to right, #009fff, #ec2f4b)
-@snapend
 
 ---
 
