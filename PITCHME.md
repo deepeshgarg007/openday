@@ -11,7 +11,7 @@ By Deepesh Garg
 
 ---
 @snap[north-west]
-Partner Portal post release activities
+Partner Portal post release Activities
 @snapend
 
 @snap[south-west list-content-concise span-100]
@@ -26,38 +26,43 @@ Partner Portal post release activities
 @snapend
 
 ---
-
----?include=template/md/split-screen/PITCHME.md
-
----?include=template/md/sidebar/PITCHME.md
-
----?include=template/md/list-content/PITCHME.md
-
----?include=template/md/boxed-text/PITCHME.md
-
----?include=template/md/image/PITCHME.md
-
----?include=template/md/sidebox/PITCHME.md
-
----?include=template/md/code-presenting/PITCHME.md
-
----?include=template/md/header-footer/PITCHME.md
-
----?include=template/md/quotation/PITCHME.md
-
----?include=template/md/announcement/PITCHME.md
-
----?include=template/md/about/PITCHME.md
-
----?include=template/md/wrap-up/PITCHME.md
-
----?image=template/img/presenter.jpg
-@title[The Template Docs]
-
-@snap[west sign-off]
-### Now it's your turn.
+@snap[north-west]
+Merge Lead and Customer field into a Dynamic Field for Quotation and Opportunity
 @snapend
 
-@snap[south docslink text-gold span-100]
-For supporting documentation see the [The Template Docs](https://gitpitch.com/docs/the-template)
+---
+
+@snap[north-west]
+New Report for Items not sold in Territory
 @snapend
+
+---
+
+@snap[north-west]
+[ICP India] Notification of Receipt against Material Request
+@snapend
+
+---
+
+@snap[north-west]
+E-way bill json creation creation and download
+@snapend
+
+---
+
+@snap[north-west]
+Addition of custom fields to Script and Query reports
+@snapend
+
+---
+
+@snap[north-west]
+[Wallbox] Automatics PO - SO Creation in Inter-company Transactions
+@snapend
+
+---
+
+
+
+
+
