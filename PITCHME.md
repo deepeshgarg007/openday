@@ -28,13 +28,13 @@ Partner Portal post release Activities
 ---
 # Merge Lead and Customer field into a Dynamic Field for Quotation and Opportunity
 
-[RIGPL](assets/img/rigpl.png)
+![RIGPL](assets/img/rigpl.png)
 
 ---
 
 # New Inactive Items Report
 
-[Report](assets/img/inactive.png)
+![Report](assets/img/inactive.png)
 
 ---
 
