@@ -10,18 +10,12 @@ By Deepesh Garg
 @snapend
 
 ---
-## @color[black](List Content<br>Slide Templates)
-
-@fa[arrow-down text-black]
-
-+++?image=template/img/spotlight.png&position=top right&size=20% auto
-
 @snap[north-west]
 Partner Portal post release activities
 @snapend
 
 @snap[south-west list-content-concise span-100]
-@ol[list-bullets-black](false)
+@ol[list-bullets-black]
 - Image upload button fix in partner profile webfrom
 - Minor changes and fixes in partne listing page and plans page
 - Partner credit balance report
@@ -32,12 +26,6 @@ Partner Portal post release activities
 @snapend
 
 ---
-@title[Tip! Fullscreen]
-
-![TIP](template/img/tip.png)
-<br>
-For the best viewing experience, press F for fullscreen.
-@css[template-note](We recommend using the *SPACE* key to navigate between slides.)
 
 ---?include=template/md/split-screen/PITCHME.md
 
