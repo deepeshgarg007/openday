@@ -1,4 +1,4 @@
----?color=linear-gradient(to right, #66ccff, #e6f7ff)
+---?color=linear-gradient(to right, #009fff, #ec2f4b)
 @title[Introduction]
 
 @snap[west text-25 text-bold text-white]
@@ -10,7 +10,7 @@ By Deepesh Garg
 @snapend
 
 ---
-@snap[north-west open-sans]
+@snap[north-west]
 Partner Portal post release Activities
 @snapend
 
@@ -39,10 +39,12 @@ Partner Portal post release Activities
 
 ---
 
+##### [ICP India] Notification of Receipt against Material Request
 
-@snap[north-west]
-[ICP India] Notification of Receipt against Material Request
-@snapend
+![ICP1](assets/img/mr-1.png)
+
+![ICP2](assets/img/mr-2.png)
+
 
 
 ---
@@ -124,7 +126,7 @@ Support Issues + Bug Fixes
 @snap[north-west]
 @snapend
 
-@snap[south-west list-content-verbose span-100]
+@snap[south list-content-verbose span-100]
 @ol[list-bullets-black](false)
 - RTL scrolling issue fix in datatable (Bug Sprint meetup)
 - Query Report not being reloaded when route options are passed
