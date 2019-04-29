@@ -32,7 +32,7 @@ Partner Portal post release Activities
 
 ---
 
-##### New Inactive Items Report
+######### New Inactive Items Report
 
 ![Report](assets/img/inactive.png)
 
@@ -55,7 +55,7 @@ Partner Portal post release Activities
 ---
 
 
-##### Sample JSON
+######### Sample JSON
 
 ![JSON](assets/img/json.png)
 
