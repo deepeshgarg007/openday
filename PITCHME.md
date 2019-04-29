@@ -43,8 +43,12 @@ Partner Portal post release Activities
 
 ![ICP1](assets/img/mr-1.png)
 
-![ICP2](assets/img/mr-2.png)
 
+---
+
+##### [ICP India] Notification of Receipt against Material Request
+
+![ICP2](assets/img/mr-2.png)
 
 
 ---
@@ -126,7 +130,7 @@ Support Issues + Bug Fixes
 @snap[north-west]
 @snapend
 
-@snap[south list-content-verbose span-100]
+@snap[south list-content-verbose span-80]
 @ol[list-bullets-black](false)
 - RTL scrolling issue fix in datatable (Bug Sprint meetup)
 - Query Report not being reloaded when route options are passed
