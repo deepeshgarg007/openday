@@ -17,7 +17,7 @@ Partner Portal post release Activities
 @snap[west list-content-concise span-100]
 @ol[list-bullets-black](false)
 - Image upload button fix in partner profile webfrom
-- Minor changes and fixes in partne listing page and plans page
+- Minor changes and fixes in partner listing page and plans page
 - Partner credit balance report
 - Changes in signup form
 - Remove old reseller pages
@@ -85,7 +85,9 @@ Partner Portal post release Activities
 
 
 ---
-##### Patch for Spacon
+@snap[north-west]
+Patch for Sapcon
+@snapend
 
 ```python
 	import frappe
@@ -124,11 +126,11 @@ Partner Portal post release Activities
 ```
 
 ---
-@snap[north-west]
+@snap[north]
 Support Issues + Bug Fixes
 @snapend
 
-@snap[south-west list-content-verbose]
+@snap[south list-content-verbose]
 @ol[list-bullets-black](false)
 - RTL scrolling issue fix in datatable (Bug Sprint meetup)
 - Query Report not being reloaded when route options are passed
