@@ -126,11 +126,11 @@ Patch for Sapcon
 ```
 
 ---
-@snap[north]
+@snap[north-west]
 Support Issues + Bug Fixes
 @snapend
 
-@snap[south list-content-verbose span-100]
+@snap[west list-content-consise span-100]
 @ol[list-bullets-black](false)
 - RTL scrolling issue fix in datatable (Bug Sprint meetup)
 - Query Report not being reloaded when route options are passed
