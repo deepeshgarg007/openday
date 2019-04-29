@@ -23,6 +23,7 @@
 
 .list-content-concise li {
   margin:0 0 10px 0;
+  font-size: 0.7em
 }
 
 .list-content-verbose ul {
@@ -36,7 +37,6 @@
 
 .list-bullets-black li::before {
   background-color: black !important;
-  font-size: 0.7em
 }
 
 .list-bullets-circles {
