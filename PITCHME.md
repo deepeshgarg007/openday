@@ -10,7 +10,7 @@ By Deepesh Garg
 @snapend
 
 ---
-@snap[north-west]
+@snap[north-west open-sans]
 Partner Portal post release Activities
 @snapend
 
