@@ -130,7 +130,7 @@ Patch for Sapcon
 Support Issues + Bug Fixes
 @snapend
 
-@snap[south list-content-verbose]
+@snap[south list-content-verbose span-100]
 @ol[list-bullets-black](false)
 - RTL scrolling issue fix in datatable (Bug Sprint meetup)
 - Query Report not being reloaded when route options are passed
