@@ -23,7 +23,6 @@
 
 .list-content-concise li {
   margin:0 0 10px 0;
-  font-size: 0.7em
 }
 
 .list-content-verbose ul {
@@ -72,8 +71,8 @@
 }
 
 .reveal pre code {
-  font-size: 1.2em;
-  line-height: 1.2em;
+  font-size: 1em;
+  line-height: 1;
   border-radius: 10px;
   max-height: 60vh !important;
   overflow: scroll !important;
