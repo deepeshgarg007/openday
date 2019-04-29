@@ -84,13 +84,9 @@ Partner Portal post release Activities
 
 
 ---
-
-@snap[north-west]
-Support Issues + Bug Fixes
-@snapend
+##### Patch for Spacon
 
 ```python
-	# Patch for sapcon to repost stock enteries
 	import frappe
 	from erpnext.stock.stock_balance import repost_stock
 	from erpnext.stock.utils import get_bin
@@ -128,9 +124,10 @@ Support Issues + Bug Fixes
 
 ---
 @snap[north-west]
+Support Issues + Bug Fixes
 @snapend
 
-@snap[south list-content-verbose span-80]
+@snap[south-west list-content-verbose span-80]
 @ol[list-bullets-black](false)
 - RTL scrolling issue fix in datatable (Bug Sprint meetup)
 - Query Report not being reloaded when route options are passed
