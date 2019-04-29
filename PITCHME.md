@@ -194,7 +194,7 @@ Support Issues + Bug Fixes
 @snap[north-west]
 @snapend
 
-@snap[west list-content-concise span-70]
+@snap[west list-content-concise span-120]
 @ol[list-bullets-black](false)
 - RTL scrolling issue fix in datatable (Bug Sprint meetup)
 - Query Report not being reloaded when route options are passed
