@@ -36,7 +36,7 @@
 
 .list-bullets-black li::before {
   background-color: black !important;
-  font-size: 1em
+  font-size: 0.7em
 }
 
 .list-bullets-circles {
@@ -72,8 +72,8 @@
 }
 
 .reveal pre code {
-  font-size: 1em;
-  line-height: 1em;
+  font-size: 1.2em;
+  line-height: 1.2em;
   border-radius: 10px;
   max-height: 60vh !important;
   overflow: scroll !important;
