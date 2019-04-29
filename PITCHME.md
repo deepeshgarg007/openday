@@ -41,14 +41,15 @@ Partner Portal post release Activities
 
 ##### [ICP India] Notification of Receipt against Material Request
 
-![ICP1](assets/img/mr-1.png)
+![ICP2](assets/img/mr-2.png)
+
 
 
 ---
 
 ##### [ICP India] Notification of Receipt against Material Request
 
-![ICP2](assets/img/mr-2.png)
+![ICP1](assets/img/mr-1.png)
 
 
 ---
