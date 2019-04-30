@@ -145,6 +145,12 @@ Support Issues + Bug Fixes
 <br><br>
 @snapend
 
+---
+
+@snap
+Thanks
+@snapend
+
 
 
 
