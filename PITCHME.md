@@ -147,7 +147,7 @@ Support Issues + Bug Fixes
 
 ---
 
-@snap
+@snap[]
 Thanks
 @snapend
 
