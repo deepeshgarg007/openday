@@ -147,7 +147,7 @@ Support Issues + Bug Fixes
 
 ---
 
-@snap[]
+@snap[text-25 text-bold]
 Thanks
 @snapend
 
