@@ -148,6 +148,12 @@ Support Issues + Bug Fixes
 ---
 
 @snap[text-25 text-bold]
+Reviewed 10-15 pull requests
+@snapend
+
+---
+
+@snap[text-25 text-bold]
 Thanks
 @snapend
 
