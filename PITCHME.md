@@ -9,6 +9,8 @@ Open Day<br>*May 2019*
 By Deepesh Garg
 @snapend
 
+---
+
 #### Credit Allocation using new payment page
 
 ---?image=assets/img/pay-2.png&size=contain
