@@ -9,9 +9,7 @@ Open Day<br>*May 2019*
 By Deepesh Garg
 @snapend
 
----
-
-![PORTAL1](assets/img/pay-2.png)
+---?image=assets/pay-2.png&size=contain
 
 ---
 
