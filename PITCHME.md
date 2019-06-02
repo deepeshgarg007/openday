@@ -11,8 +11,6 @@ By Deepesh Garg
 
 ---
 
-#### Credit allocation with new payment page
-
 ![PORTAL1](assets/img/pay-2.png)
 
 ---
