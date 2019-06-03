@@ -1,4 +1,4 @@
----?color=linear-gradient(to right, #009fff, #ec2f4b)
+---?color=linear-gradient(to right, #ff9933, #000000)
 @title[Introduction]
 
 @snap[west text-25 text-bold text-white]
@@ -43,13 +43,13 @@ By Deepesh Garg
 
 ---
 
-![ERPNext](assets/img/report-dimension.png)
+![ERPNext](assets/img/report-dimensions.png)
 
 ---
 
 ##### Documentation for chart of accounts importer
 
-![COA](assets/img/mr-2.png)
+![COA](assets/img/coa-docs.png)
 
 
 ---
