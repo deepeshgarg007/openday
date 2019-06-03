@@ -49,7 +49,7 @@ By Deepesh Garg
 
 ##### Documentation for chart of accounts importer
 
-![COA](assets/img/coa-docs.png)
+---?image=assets/img/coa-docs.png&size=contain
 
 
 ---
