@@ -34,8 +34,16 @@ By Deepesh Garg
 
 ##### Accountng Dimensions
 
+![ERPNext](assets/img/Dimensions.gif)
 
 
+---
+
+![ERPNext](assets/img/dimension-transaction.png)
+
+---
+
+![ERPNext](assets/img/report-dimension.png)
 
 ---
 
@@ -65,6 +73,12 @@ Dashboards for doctypes in accounts module
 @olend
 <br><br>
 @snapend
+
+---
+
+#### Addition of reports to dashboards
+
+---?image=assets/img/report-link.gif
 
 ---
 
