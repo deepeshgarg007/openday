@@ -32,7 +32,7 @@ By Deepesh Garg
 
 ---
 
-##### Accountng Dimensions
+##### Accounting Dimensions
 
 ![ERPNext](assets/img/Dimensions.gif)
 
